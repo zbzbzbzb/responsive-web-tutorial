@@ -1,0 +1,31 @@
+STUFF TO DO AND STUFF I'VE DONE
+DONE = !
+WHERE I SHOULD BE = &
+NOT DONE = []
+{} = abit more info
+
+
+week-1 !
+
+week-2 {
+Need to fonts properly
+}
+
+week-3 !!!
+
+week-4 !!!!
+
+week-5 !!!!!
+
+week-6 !!!!!!
+
+4-four !!!!!!!!!!
+
+
+CHECK ERRORS THAT NEED HELP WITH
+HTML_______________________________________
+Error: Bad value https://fonts.googleapis.com/css?family=Oswald|Staatliches for attribute href on element link: Illegal character in query: | is not allowed.
+From line 17, column 5; to line 17, column 93
+ss"> ↩    <link href="https://fonts.googleapis.com/css?family=Oswald|Staatliches" rel="stylesheet">↩    ↩
+
+CSS________________________________________
